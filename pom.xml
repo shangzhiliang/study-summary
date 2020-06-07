@@ -9,10 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>study-algorithm</module>
-        <module>study-algorithm</module>
+        <module>study-designPattern</module>
     </modules>
     <packaging>pom</packaging>
-    <name>study Maven Webapp</name>
+    <name>study-summary</name>
     <url>http://maven.apache.org</url>
 
 

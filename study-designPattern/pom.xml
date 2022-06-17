@@ -30,7 +30,7 @@
         <slf4j.version>lombok</slf4j.version>
         <lombok.version>1.16.22</lombok.version>
         <!-- json -->
-        <fastjson.version>1.2.7</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jsp.version>2.2</jsp.version>
         <jstl.version>1.2</jstl.version>
         <servlet.version>3.0.1</servlet.version>
